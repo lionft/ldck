@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eef8c0bd.chunk.css",
+    "main.js": "/static/js/main.8cf8d881.chunk.js",
+    "main.js.map": "/static/js/main.8cf8d881.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.385fc652.js",
+    "runtime-main.js.map": "/static/js/runtime-main.385fc652.js.map",
+    "static/css/2.a2bc7d03.chunk.css": "/static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.525ecd21.chunk.js": "/static/js/2.525ecd21.chunk.js",
+    "static/js/2.525ecd21.chunk.js.map": "/static/js/2.525ecd21.chunk.js.map",
+    "static/js/3.ea0dfafa.chunk.js": "/static/js/3.ea0dfafa.chunk.js",
+    "static/js/3.ea0dfafa.chunk.js.map": "/static/js/3.ea0dfafa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a2bc7d03.chunk.css.map": "/static/css/2.a2bc7d03.chunk.css.map",
+    "static/css/main.eef8c0bd.chunk.css.map": "/static/css/main.eef8c0bd.chunk.css.map",
+    "static/js/2.525ecd21.chunk.js.LICENSE.txt": "/static/js/2.525ecd21.chunk.js.LICENSE.txt",
+    "static/media/About.scss": "/static/media/imageBorderRadius.6fb248f8.png",
+    "static/media/aboutImage.f12bf7cd.png": "/static/media/aboutImage.f12bf7cd.png",
+    "static/media/bgVideo.d97b7b9b.mp4": "/static/media/bgVideo.d97b7b9b.mp4",
+    "static/media/FirstBatch.scss": "/static/media/firstBatchBg.536a9447.jpeg",
+    "static/media/Collections.scss": "/static/media/collectionBg.f0121326.jpeg",
+    "static/media/collectionImageBg.81dfe959.png": "/static/media/collectionImageBg.81dfe959.png",
+    "static/media/imageBottom.dad48e84.png": "/static/media/imageBottom.dad48e84.png",
+    "static/media/img1.697689c0.png": "/static/media/img1.697689c0.png",
+    "static/media/img2.9d7f46cd.png": "/static/media/img2.9d7f46cd.png",
+    "static/media/img3.58943acb.png": "/static/media/img3.58943acb.png",
+    "static/media/img4.87880768.png": "/static/media/img4.87880768.png",
+    "static/media/logo.ca52a45a.png": "/static/media/logo.ca52a45a.png",
+    "static/media/titleBottom.779581a9.svg": "/static/media/titleBottom.779581a9.svg",
+    "static/media/titleShape.503729aa.svg": "/static/media/titleShape.503729aa.svg",
+    "static/media/tornadoImage.db0b86c4.gif": "/static/media/tornadoImage.db0b86c4.gif",
+    "static/media/triangleImage.2e543fc1.png": "/static/media/triangleImage.2e543fc1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.385fc652.js",
+    "static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.525ecd21.chunk.js",
+    "static/css/main.eef8c0bd.chunk.css",
+    "static/js/main.8cf8d881.chunk.js"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0x9DB95C7149d9D0F99b10D27A61f74353e7443647",
+  "CONTRACT_ADDRESS": "0xeb094f208AF8041AE74f9545b6e0Bc134e1A9F1A",
+
+  "SCAN_LINK": "https://polygonscan.com/address/0xeb094f208af8041ae74f9545b6e0bc134e1a9f1a",
+  "NETWORK": {
+    "NAME": "polygon",
+    "SYMBOL": "matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Interactable & Wearable NFTs",
+  "SYMBOL": "IWN",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 990000000000000000,
+  "COST1": 9900000000000000000000000000,
+
+  "DISPLAY_COST": 0.99,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/InteractableWearableNFTs",
+  "SHOW_BACKGROUND": true
+}
